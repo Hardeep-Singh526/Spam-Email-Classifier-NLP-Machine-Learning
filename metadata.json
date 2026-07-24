@@ -1,0 +1,6 @@
+{
+  "name": "AI Spam Email Classifier",
+  "description": "Production-grade Machine Learning & Gemini AI Spam Email Classifier with risk scoring, phishing analysis, keyword highlighting, and interactive ML pipeline inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

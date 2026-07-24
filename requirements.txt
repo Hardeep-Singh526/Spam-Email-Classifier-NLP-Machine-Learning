@@ -1,0 +1,15 @@
+# Machine Learning & Core Data Processing
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+nltk>=3.8.1
+joblib>=1.3.0
+
+# Generative AI & Environment
+google-genai>=0.1.1
+python-dotenv>=1.0.0
+
+# Visualization & Frontend UI
+streamlit>=1.28.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
